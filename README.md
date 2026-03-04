@@ -1,7 +1,7 @@
-Teoria da Computacao e Compiladores - 1/26
+# Teoria da Computacao e Compiladores - 1/26
 Atividades da UC "Teoria da computação e compiladores" do professor "Fabrício Valadares" do primeiro semestre de 2026
 
-Lista dos exercícios baseados no Ulife
+## Lista dos exercícios baseados no Ulife
 
 Lista -- 0 = (Branche - Atividade - 1)
 
